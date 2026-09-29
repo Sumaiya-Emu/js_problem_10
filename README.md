@@ -38,6 +38,8 @@ This repository contains my solutions for 10 JavaScript coding tasks. The challe
 
 ---
 
+![JavaScript Tasks Output](image/output_js.png)
+
 ## How to Run the Code
 
 1. Make sure you have **Node.js** installed on your computer.
